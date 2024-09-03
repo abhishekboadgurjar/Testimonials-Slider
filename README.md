@@ -19,6 +19,7 @@ The **Testimonials Slider** is a web-based application that allows users to navi
 - **CSS**: Styles the user interface, ensuring a clean and responsive design.
 - **JavaScript**: Manages the logic for testimonial navigation and user interactions.
 
+
 ## Installation
 
 To get started with the project, follow these steps:
